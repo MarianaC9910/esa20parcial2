@@ -1,0 +1,7 @@
+{
+  "name": "esa20parcial2",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
